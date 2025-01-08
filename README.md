@@ -55,13 +55,13 @@ Blockguard is an accountability platform built on blockchain technology, designe
 ## Getting Started
 
 ###For Blockchain Companies
-1. **Sign Up**: Visit www.blockguard.xyz to create an account for your company.
+1. **Sign Up**: Visit  [www.blockguard.xyz](https://blockguard-phi.vercel.app) to create an account for your company.
 2. **Lock Funds**: For any event (hackathon, bounty, or funding project), lock the prize funds in a smart contract before the event begins.
 3. **Event Management:**: Set the event details, prize distribution conditions, and rules.
 4. **Automated Payouts**: Once the event concludes and winners are announced, Blockguard handles the payout automatically, ensuring participants receive their rewards without delay.
 
 ### For Participants
-1. **Sign Up**: Register for events and create a profile on www.blockguard.xyz.
+1. **Sign Up**: Register for events and create a profile on  [www.blockguard.xyz](https://blockguard-phi.vercel.app)
 2. **Participate in Events**: Join hackathons, bounty programs, or other competitions hosted on Blockguard.
 3. **Track Prize Distribution**: Monitor the status of the event and trust that the prize will be automatically distributed once the event concludes.
 
